@@ -1,4 +1,6 @@
 # AWS VPC Terraform module
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fterraform-aws-vpc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fterraform-aws-vpc?ref=badge_shield)
+
 
 Terraform module which creates VPC resources on AWS.
 
@@ -569,3 +571,6 @@ Module is maintained by [Anton Babenko](https://github.com/antonbabenko) with he
 ## License
 
 Apache 2 Licensed. See [LICENSE](https://github.com/terraform-aws-modules/terraform-aws-vpc/tree/master/LICENSE) for full details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fterraform-aws-vpc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fterraform-aws-vpc?ref=badge_large)
